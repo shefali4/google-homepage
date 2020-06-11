@@ -1,1 +1,2 @@
-This project will allow me to use elements I have learned in HTML to build the Google.com homepage.
+Replicated the Google Search engine using HTML and CSS.
+Added the Google Logo, search bar, search buttons, and a top and bottom navigation bar.
